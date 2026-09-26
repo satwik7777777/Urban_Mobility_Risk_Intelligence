@@ -1,0 +1,38 @@
+priority_rank,station,priority_index,priority_category,risk_score,fatal_crash_pct,crash_trend_per_year,trend_category,years_available
+1,Yalahanka,91.3499265408639,Critical Priority,90.49,22.33,3.77,Increasing,8
+2,Kengeri,78.93407154465407,Critical Priority,66.4,18.66,10.67,Strongly Increasing,8
+3,K R Puram,73.29327549156523,Critical Priority,78.89,17.2,1.18,Increasing,8
+4,Electronic City,72.2033135789728,Critical Priority,64.86,20.15,3.56,Increasing,8
+5,Chikkajala,71.20564320628289,Critical Priority,65.92,21.62,0.11,Increasing,8
+6,Whitefield,67.15442762767452,High Priority,62.84,21.72,-1.94,Stable / Slightly Decreasing,8
+7,Hebbala,66.58989813530388,High Priority,52.92,19.83,5.39,Strongly Increasing,8
+8,Kamakshipalya,56.126359229635085,High Priority,61.95,15.37,-2.36,Stable / Slightly Decreasing,8
+9,Airport,53.94846154987181,High Priority,37.76,22.8,-1.74,Stable / Slightly Decreasing,8
+10,Rajajinagar,51.326622548316266,High Priority,30.03,18.01,6.63,Strongly Increasing,8
+11,Madivala,50.665487940069625,High Priority,30.42,20.35,2.63,Increasing,8
+12,Indiranagar,48.90720532958163,Moderate Priority,31.37,17.78,4.13,Increasing,8
+13,Peenya,45.8925595821593,Moderate Priority,54.64,14.84,-6.71,Strongly Decreasing,8
+14,Micolayout,43.456819310292055,Moderate Priority,28.13,17.01,2.14,Increasing,8
+15,K G Halli,40.99352579886041,Moderate Priority,15.12,18.8,4.38,Increasing,8
+16,HSR Layout,40.87059814032081,Moderate Priority,27.68,21.65,-6.26,Strongly Decreasing,8
+17,City Market,40.00501986837244,Moderate Priority,12.34,20.11,3.18,Increasing,8
+18,Upparpet,39.052002678121525,Moderate Priority,16.1,20.0,0.52,Increasing,8
+19,Jayanagar,38.05343807451312,Moderate Priority,25.45,15.51,0.9,Increasing,8
+20,Jalahalli,35.760506739621135,Moderate Priority,33.13,19.87,-11.14,Strongly Decreasing,8
+21,Hulimavu,35.665025033595356,Moderate Priority,32.37,15.97,-5.46,Strongly Decreasing,8
+22,Banashankari,33.353090769087274,Moderate Priority,26.33,14.22,-1.89,Stable / Slightly Decreasing,8
+23,Banasawadi,33.07124026789543,Moderate Priority,30.29,15.47,-5.94,Strongly Decreasing,8
+24,Basavanagudi,25.9204970833664,Normal Monitoring,18.54,7.47,5.01,Strongly Increasing,8
+25,Malleshwaram,25.402130438303885,Normal Monitoring,20.83,11.98,-2.85,Stable / Slightly Decreasing,8
+26,W.Garden,25.24744484960727,Normal Monitoring,15.51,12.53,-0.94,Stable / Slightly Decreasing,8
+27,Shivajinagar,25.186256926002567,Normal Monitoring,7.65,14.81,0.01,Increasing,8
+28,Adugodi,24.951578289677126,Normal Monitoring,13.85,10.76,2.11,Increasing,8
+29,U.Gate,23.839376479581183,Normal Monitoring,13.0,9.42,3.43,Increasing,8
+30,R T Nagar,23.27794126049399,Normal Monitoring,18.54,13.08,-5.01,Strongly Decreasing,8
+31,Ashokanagar,23.102986669135284,Normal Monitoring,12.93,13.75,-3.13,Stable / Slightly Decreasing,8
+32,Chamarajpet,22.14127154323871,Normal Monitoring,8.3,15.08,-3.36,Stable / Slightly Decreasing,8
+33,Magadi Road,21.585533139857304,Normal Monitoring,9.6,11.27,0.71,Increasing,8
+34,S.S.Nagar,21.266818287408107,Normal Monitoring,15.51,11.27,-2.68,Stable / Slightly Decreasing,8
+35,H.Grounds,17.231862167230396,Normal Monitoring,11.57,8.35,-0.11,Stable / Slightly Decreasing,8
+36,Vijayanagar,16.914913564014434,Normal Monitoring,22.94,10.18,-8.89,Strongly Decreasing,8
+37,Cubbon Park,14.124104381570257,Normal Monitoring,8.85,6.94,0.55,Increasing,8

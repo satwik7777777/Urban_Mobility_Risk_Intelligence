@@ -1,0 +1,7 @@
+station,risk_score,risk_category,years_available,avg_annual_crashes,avg_annual_fatal_crashes,crash_trend_per_year,trend_category,intervention_priority
+Yalahanka,90.49,High,8,223.38,49.88,3.77,Increasing,Critical Priority
+K R Puram,78.89,High,8,220.88,38.0,1.18,Increasing,Critical Priority
+Kengeri,66.4,Medium,8,162.75,30.38,10.67,Strongly Increasing,High Priority
+Hebbala,52.92,Medium,8,136.12,27.0,5.39,Strongly Increasing,High Priority
+Chikkajala,65.92,Medium,8,172.88,37.38,0.11,Increasing,Moderate Priority
+Electronic City,64.86,Medium,8,163.12,32.88,3.56,Increasing,Moderate Priority

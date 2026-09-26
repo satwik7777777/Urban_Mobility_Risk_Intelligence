@@ -1,11 +1,35 @@
-.venv/
+# Python
 __pycache__/
-*.pyc
-.env
-data/raw/
-data/processed/
-*.csv
-*.parquet
-*.pkl
-*.joblib
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Local backup files
+dashboard/app_backup.py
+dashboard/theme.py
+# Large generated road network
+processed/bengaluru_drive_network.graphml
+
+# Notebook cache
+notebooks/cache/

@@ -1,0 +1,61 @@
+station,crash_trend_per_year,first_vs_last_change_pct,risk_score,risk_category,years_available,data_coverage
+Adugodi,2.11,32.0,13.85,Low,8,Strong
+Airport,-1.74,-32.11,37.76,Low,8,Strong
+Ashokanagar,-3.13,-27.27,12.93,Low,8,Strong
+B.Pura,8.3,37.61,45.31,Medium,5,Moderate
+Banasawadi,-5.94,-21.71,30.29,Low,8,Strong
+Banashankari,-1.89,-15.0,26.33,Low,8,Strong
+Basavanagudi,5.01,17.14,18.54,Low,8,Strong
+Bellanduru,16.5,76.74,22.49,Low,3,Limited
+Bytarayanapura,-18.0,-19.78,47.68,Medium,3,Limited
+Chamarajpet,-3.36,-59.52,8.3,Low,8,Strong
+Chickpet,-2.96,-24.07,16.86,Low,7,Moderate
+Chikkabanavara,27.0,30.0,32.31,Low,2,Limited
+Chikkajala,0.11,40.79,65.92,Medium,8,Strong
+City Market,3.18,55.0,12.34,Low,8,Strong
+Cubbon Park,0.55,-7.41,8.85,Low,8,Strong
+Devanahalli,-0.6,-4.35,55.92,Medium,5,Moderate
+Electronic City,3.56,11.25,64.86,Medium,8,Strong
+F.Town,-3.5,-57.14,33.96,Low,5,Moderate
+H.Grounds,-0.11,-15.0,11.57,Low,8,Strong
+HSR Layout,-6.26,-36.0,27.68,Low,8,Strong
+Halasooru,-12.0,-35.82,20.91,Low,3,Limited
+Hebbala,5.39,18.84,52.92,Medium,8,Strong
+Hennuru,-7.5,-14.56,44.88,Medium,3,Limited
+Hulimavu,-5.46,-33.82,32.37,Low,8,Strong
+Indiranagar,4.13,32.43,31.37,Low,8,Strong
+Int. Aiport,-43.0,-37.07,86.76,High,3,Limited
+JP Nagar,,,7.79,Low,1,Limited
+Jalahalli,-11.14,-67.82,33.13,Low,8,Strong
+Jayanagar,0.9,-18.52,25.45,Low,8,Strong
+Jnanabharathi,17.0,12.06,46.08,Medium,2,Limited
+K G Halli,4.38,108.7,15.12,Low,8,Strong
+K R Puram,1.18,-5.65,78.89,High,8,Strong
+K S Layout,-38.5,-50.0,35.28,Low,3,Limited
+K.Swamy Lyt.,-8.2,-7.89,63.22,Medium,5,Moderate
+Kamakshipalya,-2.36,-7.66,61.95,Medium,8,Strong
+Kengeri,10.67,24.22,66.4,Medium,8,Strong
+Kodigehalli,,,31.8,Low,1,Limited
+Madivala,2.63,9.76,30.42,Low,8,Strong
+Magadi Road,0.71,11.43,9.6,Low,8,Strong
+Mahadevapura,18.0,38.71,36.33,Low,3,Limited
+Malleshwaram,-2.85,-42.57,20.83,Low,8,Strong
+Micolayout,2.14,12.5,28.13,Low,8,Strong
+Peenya,-6.71,-26.43,54.64,Medium,8,Strong
+Pulikeshinagar,-4.0,-29.63,14.57,Low,3,Limited
+R T Nagar,-5.01,-64.89,18.54,Low,8,Strong
+Rajajinagar,6.63,28.17,30.03,Low,8,Strong
+S.S.Nagar,-2.68,-27.91,15.51,Low,8,Strong
+Sheshadripuram/Chickpet,,,6.57,Low,1,Limited
+Shivajinagar,0.01,-28.0,7.65,Low,8,Strong
+Thalagattapura,31.0,69.66,44.54,Medium,3,Limited
+U.Gate,3.43,42.55,13.0,Low,8,Strong
+Ulsoor,-6.5,-6.17,31.8,Low,5,Moderate
+Upparpet,0.52,2.17,16.1,Low,8,Strong
+VV Puram,,,0.23,Low,1,Limited
+Vijayanagar,-8.89,-41.22,22.94,Low,8,Strong
+W.Garden,-0.94,-23.08,15.51,Low,8,Strong
+Whitefield,-1.94,-45.4,62.84,Medium,8,Strong
+Y.Pura,-20.7,-50.99,35.76,Low,5,Moderate
+Yalahanka,3.77,16.29,90.49,High,8,Strong
+Yashawanthapura,-2.0,-3.77,39.62,Low,3,Limited

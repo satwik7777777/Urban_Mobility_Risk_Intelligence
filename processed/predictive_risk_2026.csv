@@ -1,0 +1,38 @@
+station,actual_2025_crashes,predicted_2026_crashes,recent_trend_per_year,risk_score,risk_category,priority_index,priority_category,forecast_level_score,trend_score,predictive_outlook_index,predictive_outlook
+Yalahanka,257,257,10.5,90.49,High,91.3499265408639,Critical Priority,97.2972972972973,100,94.43,Critical Outlook
+K R Puram,267,267,6.5,78.89,High,73.29327549156523,Critical Priority,100.0,70,83.44,Critical Outlook
+Chikkajala,214,214,38.5,65.92,Medium,71.20564320628289,Critical Priority,94.5945945945946,100,81.34,Critical Outlook
+Hebbala,164,164,10.0,52.92,Medium,66.58989813530388,High Priority,81.08108108108108,100,70.78,High Outlook
+Electronic City,178,178,-9.0,64.86,Medium,72.2033135789728,Critical Priority,86.48648648648648,40,66.38,High Outlook
+Kengeri,200,200,-39.5,66.4,Medium,78.93407154465407,Critical Priority,91.8918918918919,20,64.77,High Outlook
+Kamakshipalya,193,193,-24.0,61.95,Medium,56.126359229635085,High Priority,89.1891891891892,20,61.73,High Outlook
+Whitefield,95,95,-64.0,62.84,Medium,67.15442762767452,High Priority,72.97297297297297,20,57.31,Moderate Outlook
+Peenya,167,167,-12.5,54.64,Medium,45.8925595821593,Moderate Priority,83.78378378378379,20,56.46,Moderate Outlook
+Banasawadi,101,101,5.0,30.29,Low,33.07124026789543,Moderate Priority,78.37837837837837,70,52.66,Moderate Outlook
+Indiranagar,98,98,6.5,31.37,Low,48.90720532958163,Moderate Priority,75.67567567567568,70,52.39,Moderate Outlook
+Madivala,90,90,8.5,30.42,Low,50.665487940069625,High Priority,66.21621621621621,70,49.07,Moderate Outlook
+Rajajinagar,91,91,-5.5,30.03,Low,51.326622548316266,High Priority,70.27027027027027,40,44.1,Moderate Outlook
+Hulimavu,90,90,-9.0,32.37,Low,35.66502503359536,Moderate Priority,66.21621621621621,40,44.05,Moderate Outlook
+HSR Layout,64,64,4.0,27.68,Low,40.87059814032081,Moderate Priority,40.54054054054054,70,40.0,Lower Outlook
+Banashankari,85,85,-2.5,26.33,Low,33.353090769087274,Moderate Priority,62.16216216216216,40,39.81,Lower Outlook
+Airport,74,74,-11.5,37.76,Low,53.94846154987181,High Priority,54.054054054054056,20,39.1,Lower Outlook
+Micolayout,72,72,-8.0,28.13,Low,43.456819310292055,Moderate Priority,51.35135135135135,40,37.47,Lower Outlook
+Vijayanagar,77,77,-1.0,22.94,Low,16.914913564014434,Normal Monitoring,56.75675675675676,40,36.5,Lower Outlook
+Basavanagudi,82,82,-10.0,18.54,Low,25.9204970833664,Normal Monitoring,59.45945945945946,40,35.11,Lower Outlook
+U.Gate,67,67,6.5,13.0,Low,23.839376479581183,Normal Monitoring,48.64864864864865,70,35.09,Lower Outlook
+Adugodi,66,66,1.5,13.85,Low,24.951578289677126,Normal Monitoring,44.5945945945946,70,34.3,Lower Outlook
+S.S.Nagar,62,62,7.5,15.51,Low,21.266818287408107,Normal Monitoring,37.83783783783784,70,33.11,Lower Outlook
+Jalahalli,56,56,-23.0,33.13,Low,35.760506739621135,Moderate Priority,32.432432432432435,20,30.29,Lower Outlook
+Jayanagar,66,66,-12.0,25.45,Low,38.05343807451312,Moderate Priority,44.5945945945946,20,30.1,Lower Outlook
+K G Halli,48,48,4.0,15.12,Low,40.99352579886041,Moderate Priority,24.324324324324326,70,28.86,Lower Outlook
+Upparpet,47,47,9.0,16.1,Low,39.052002678121525,Moderate Priority,21.62162162162162,70,28.54,Lower Outlook
+Ashokanagar,40,40,1.0,12.93,Low,23.102986669135284,Normal Monitoring,17.56756756756757,70,25.74,Lower Outlook
+Malleshwaram,58,58,-20.5,20.83,Low,25.402130438303885,Normal Monitoring,35.13513513513514,20,24.96,Lower Outlook
+H.Grounds,51,51,-2.5,11.57,Low,17.231862167230396,Normal Monitoring,29.72972972972973,40,22.7,Lower Outlook
+Cubbon Park,50,50,-3.0,8.85,Low,14.124104381570255,Normal Monitoring,27.027027027027028,40,20.53,Lower Outlook
+W.Garden,40,40,-12.5,15.51,Low,25.24744484960727,Normal Monitoring,17.56756756756757,20,17.03,Lower Outlook
+Magadi Road,39,39,-5.5,9.6,Low,21.585533139857304,Normal Monitoring,13.513513513513514,40,16.85,Lower Outlook
+City Market,31,31,-0.5,12.34,Low,40.00501986837244,Moderate Priority,8.108108108108109,40,16.6,Lower Outlook
+R T Nagar,33,33,-24.5,18.54,Low,23.27794126049399,Normal Monitoring,10.81081081081081,20,16.51,Lower Outlook
+Shivajinagar,18,18,-4.5,7.65,Low,25.186256926002567,Normal Monitoring,5.405405405405405,40,13.45,Lower Outlook
+Chamarajpet,17,17,-6.0,8.3,Low,22.14127154323871,Normal Monitoring,2.7027027027027026,40,12.96,Lower Outlook
