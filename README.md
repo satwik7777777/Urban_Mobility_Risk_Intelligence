@@ -1,6 +1,9 @@
 # Urban Mobility Risk Intelligence
 
 Bengaluru road crash analysis and risk intelligence dashboard using crash data from 2018–2025.
+## Live Dashboard
+
+[Open the live dashboard](https://urbanmobilityriskintelligence-257bsrotgsjpl9sqp6frl3.streamlit.app/)
 
 ## About the Project
 
